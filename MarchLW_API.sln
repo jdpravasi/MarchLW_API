@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarchLW_API", "MarchLW_API\MarchLW_API.csproj", "{3D4F2232-4254-4F75-85A9-1B8347B3A094}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D4F2232-4254-4F75-85A9-1B8347B3A094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4F2232-4254-4F75-85A9-1B8347B3A094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4F2232-4254-4F75-85A9-1B8347B3A094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4F2232-4254-4F75-85A9-1B8347B3A094}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D822D839-EF5D-40D6-86CC-EE7EE8782D06}
+	EndGlobalSection
+EndGlobal
